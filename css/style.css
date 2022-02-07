@@ -1,0 +1,54 @@
+
+
+.logo{
+    height: auto;
+    margin-right : auto;
+    margin-left : auto;
+    min-width : 40vw;
+}
+ 
+
+
+ .mini-logo{
+    width: 15vw;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 100px;
+    max-width: 250px;
+
+}
+.no-container {
+    margin-left: 0 
+    margin-right: 0 
+  }
+
+.row {
+
+ size: 40rem;
+ float: center;
+ }
+
+ .card{
+background-color: #d3e291;
+max-width: 18rem;
+ }
+
+.accordion {
+  background-color:#d3e291;
+  cursor: pointer;
+  padding: 0;
+  width: 100%;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+
+}
+
+
+.panel {
+  display: none;
+  overflow: hidden;
+  font-family: 'Bebas Neue', bold;
+  font-size: 18px;
+}
